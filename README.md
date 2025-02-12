@@ -12,3 +12,4 @@ npm install
 
 # To start the development server and storybook in development mode
 npm start
+```
