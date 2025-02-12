@@ -10,6 +10,6 @@ git clone git@github.com:geekyants-anupam-saha/x-signature-BE.git
 # Install dependencies
 npm install
 
-# To start the development server and storybook in development mode
+# To start the development server
 npm start
 ```
